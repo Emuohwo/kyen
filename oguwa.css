@@ -271,7 +271,7 @@ h1 {
 ***************************************/
 
 #contact {
-    background-color: #26722f;
+    background-color: #000000;
     color: #fff;
 }
 
@@ -299,8 +299,8 @@ iframe {
 ***************************************/
 
 footer {
-    background-color: #4cd038;
-    color: #ececf5;
+    background-color: #000000de;
+    color: #fff;
     padding: 2% 0;
 }
 
